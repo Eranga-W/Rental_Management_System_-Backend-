@@ -30,4 +30,17 @@ public class ItemServiceImpl implements ItemService {
         );
         return itemsList;
     }
+
+    @Override
+    public void deleteItemById(Long id) {
+        if (repository.existsById(id)){
+            repository.deleteById(id);
+        }
+    }
+    @Override
+    public void updateItem(Items items) {
+        if(repository.findById(items.getId()).isPresent()){
+            repository.save(new ObjectMapper().convertValue(items, ItemsEntity.class));
+        }
+    }
 }

@@ -8,4 +8,8 @@ public interface ItemService {
     void addItem(Items items);
 
     List<Items> getAll();
+
+    void deleteItemById(Long id);
+
+    void updateItem(Items items);
 }
