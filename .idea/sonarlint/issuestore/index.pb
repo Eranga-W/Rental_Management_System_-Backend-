@@ -23,3 +23,9 @@ l
 <src/main/java/org/icet/crm/service/impl/ItemServiceImpl.java,4\a\4a65fc08cbe5f0f22b31bc9839eb5a817099a8f1
 i
 9src/main/java/org/icet/crm/repository/ItemRepository.java,1\e\1e395bf77633bf96e3ea78fdba87eb0e237b8b7f
+n
+>src/main/java/org/icet/crm/service/impl/RentalServiceImpl.java,3\9\3958c6c85ab9752119bfcd37b7ed4de650634e47
+e
+5src/main/java/org/icet/crm/service/RentalService.java,c\8\c89aeb16896d04c5c2b4465fa5c14d380ac52d88
+k
+;src/main/java/org/icet/crm/repository/RentalRepository.java,9\4\94d03717ecc61fb10a87ff6973d73573f5b9eb83

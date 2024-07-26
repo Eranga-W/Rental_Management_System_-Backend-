@@ -14,6 +14,8 @@ public class RentalEntity {
     @Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)
     private Long id;
+    private String custName;
+    private String itemName;
     private String rentalDate;
     private String returnDate;
     private String dueDate;

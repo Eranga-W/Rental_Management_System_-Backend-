@@ -11,6 +11,8 @@ import lombok.ToString;
 @ToString
 public class Rental {
     private Long id;
+    private String custName;
+    private String itemName;
     private String rentalDate;
     private String returnDate;
     private String dueDate;
