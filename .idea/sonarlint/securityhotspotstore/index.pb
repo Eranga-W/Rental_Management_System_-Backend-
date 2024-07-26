@@ -15,3 +15,11 @@ Z
 *src/main/java/org/icet/crm/dto/Rental.java,9\4\94e8106bb1a7ba82a15c2ccdd3bd9fcde6fc8b97
 c
 3src/main/java/org/icet/crm/entity/RentalEntity.java,e\b\eb3dc60fa1a8845cbff93ffcb493cf0d4f0a66a6
+h
+8src/main/java/org/icet/crm/service/impl/ItemService.java,f\2\f2c18b5a8bb6686866f91746735d169a4eef4916
+c
+3src/main/java/org/icet/crm/service/ItemService.java,b\c\bc924d161d03b99759702a443f32326909650383
+l
+<src/main/java/org/icet/crm/service/impl/ItemServiceImpl.java,4\a\4a65fc08cbe5f0f22b31bc9839eb5a817099a8f1
+i
+9src/main/java/org/icet/crm/repository/ItemRepository.java,1\e\1e395bf77633bf96e3ea78fdba87eb0e237b8b7f
